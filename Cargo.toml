@@ -4,3 +4,15 @@ version = "0.1.0"
 edition = "2024"
 
 [dependencies]
+# CLI
+clap = { version = "4.5", features = ["derive"] }
+
+# TUI
+ratatui = "0.27"
+crossterm = "0.28"
+
+# Error handling & utilities
+anyhow = "1.0"
+
+# Async (useful later for backend calls)
+tokio = { version = "1.37", features = ["full"] }

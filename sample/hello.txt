@@ -1,0 +1,13 @@
+FROM: welcome@hermes.com
+SUBJECT: Hello from Hermes
+BODY:
+Hello there!
+
+Welcome to Hermes, your new terminal email client.
+
+This is a sample message to demonstrate how emails appear in your inbox.
+
+Feel free to explore all the features and keybindings.
+
+Cheers,
+Evan
